@@ -1,5 +1,9 @@
 // System component Github info + etc.
 
+agendo:
+	repo: git@github.com:estill01/agendo.git
+	functionality: overarching system file structure
+
 lightroast:
 	repo: git@github.com:estill01/lightroast.git
 	functionality: system server
